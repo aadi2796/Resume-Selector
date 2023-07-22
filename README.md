@@ -1,1 +1,14 @@
 # Resume-Selector
+In this project, a cutting-edge approach leveraging machine learning classification techniques was adopted to analyze and make informed decisions regarding resume data. The process commenced by meticulously sampling a diverse range of resumes, ensuring a representative dataset that captured the myriad of professional backgrounds and experiences.
+
+With a focus on data quality and reliability, an extensive exploration of the resume data was conducted, revealing valuable insights into its underlying patterns and characteristics. In order to ensure the accuracy and effectiveness of the subsequent analysis, a rigorous data cleaning process was implemented, eliminating any inconsistencies, errors, or irrelevant information that might have hindered the classification task.
+
+To facilitate the data preparation stage and unleash the true potential of the machine learning algorithms, the resume data underwent comprehensive pre-processing. This step encompassed a series of transformations, including text normalization, tokenization, and feature extraction, all of which aimed to encode the resumes into a format conducive to efficient analysis and modeling.
+
+To gain a visual understanding of the most prominent keywords and themes within the resume data, captivating word clouds were generated. These visually striking representations allowed for quick and intuitive comprehension of the most frequently occurring terms and phrases, providing valuable insights into the overall content and emphasis of the resumes.
+
+Having laid the groundwork with thorough data exploration, cleaning, pre-processing, and visualization, the dataset was thoughtfully segregated into separate training and test sets. The training set was used to teach the Naive Bayes classifier to recognize the patterns and associations between the resume data and their respective categories, while the test set served as a robust evaluation platform to gauge the model's predictive capabilities.
+
+The highly optimized Naive Bayes classifier, finely tuned through iterative refinement, demonstrated remarkable performance on the test set, achieving an impressive accuracy rate of 80%. This level of accuracy solidified the model's competence and reliability in accurately categorizing resumes, allowing for precise and targeted resume selection based on the specific criteria and preferences of the recruiters or employers.
+
+In conclusion, this project showcases a sophisticated and data-driven approach to resume analysis, combining machine learning techniques with thorough data exploration, cleansing, pre-processing, visualization, and model evaluation. The resulting Naive Bayes classifier empowers recruiters and employers to efficiently sift through a vast pool of resumes and make informed decisions to identify the most suitable candidates for their respective roles.
